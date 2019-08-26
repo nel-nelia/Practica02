@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica02</string>
+    <string name="vocales_texto1" />
+    <string name="voc_text2" />
+    <string name="distinto" />
+    <string name="igual" />
+    <string name="completar" />
+</resources>
